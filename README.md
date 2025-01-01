@@ -32,11 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/TimurALTron/TimurALTron/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <a href="https://t.me/whiiiiteduke" target="_blank">
